@@ -1,1 +1,1 @@
-Developing feature1 
+Merge conflict solved
